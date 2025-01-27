@@ -1,4 +1,4 @@
-admin1Pcode,admin2Pcode,year,area_planted_rai,area_harvested_rai,production_ton,yield_planted_kg_rai,yield_harvest_kg_rai
+admin1Pcod,admin2Pcod,year,area_planted_rai,area_harvested_rai,production_ton,yield_planted_kg_rai,yield_harvest_kg_rai
 TH10,TH1003,2012,66777,66521,45101,675,678
 TH10,TH1003,2013,66490,66174,44800,674,677
 TH10,TH1003,2014,59422,59395,39438,664,664
